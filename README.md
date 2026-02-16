@@ -48,4 +48,4 @@ python image_resizer.py
 ---
 
 ## 👨‍💻 Author
-Developed by **Your Name**
+Developed by Monty
